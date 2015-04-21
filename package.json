@@ -1,0 +1,8 @@
+{
+  "name": "node-webkit-starter-pack",
+  "description": "A starter pack for beggins with node-webkit using grunt for packaging",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-node-webkit-builder": "latest"
+  }
+}
